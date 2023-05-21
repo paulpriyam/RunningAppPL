@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">RunningAppPL</string>
     <string name="google_maps_key">AIzaSyBdufSflH_qzb851o8OLysXeVTsR7QcSbQ</string>
+
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+
+    <string name="start_text">Start</string>
+    <string name="stop_text">Stop</string>
 </resources>

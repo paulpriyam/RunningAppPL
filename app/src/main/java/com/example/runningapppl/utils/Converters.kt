@@ -1,4 +1,4 @@
-package com.example
+package com.example.runningapppl.utils
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
